@@ -15,7 +15,7 @@ assigned to take care of a part of  the system needs to use the same tech stack.
 # Data Consistency In Monolith
 
 * Transactions are taking care of data consistency in a Monolith. If you have a transaction is failing then whole process will be rolledback
-  so there wont be not consistent data.
+  so there won't be not consistent data.
 
 # Scale Cube and Microservices
 
